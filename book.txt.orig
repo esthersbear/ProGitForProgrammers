@@ -1,0 +1,14 @@
+class Book(){
+
+  public string Title{get ; set;}
+
+  public List<String> Authors {get; set;}
+
+  public DateTime PublicationDate {get; set;}
+
+<<<<<<< HEAD
+  fix from Book branch
+=======
+  fix from Book2 branch
+>>>>>>> book2
+}
