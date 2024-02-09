@@ -1,1 +1,2 @@
 ver.2
+this line add to show the staging area.
